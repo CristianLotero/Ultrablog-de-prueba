@@ -8,3 +8,6 @@ Hoy hablaremos de su vida y obra maestra
 Mañana nos enfocaremos en su vida laboral.
 
 modificacion al archivo para clase 35/43 de CP Git y GitHun
+
+modificacion luego de hacer <rebase> de rama <experimento> a rama <main>
+
