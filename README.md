@@ -5,3 +5,5 @@ Un blog de prueba para el curso de Git y GitHub de Platzi
 Estoy siendo pragmático y por esta cuestion este blog no tiene un README.md muy vistoso.   
 
 Tengo que hacer otro cambio. por eso estas leyendo esto.
+
+poca paciencia para este ejercicio.
